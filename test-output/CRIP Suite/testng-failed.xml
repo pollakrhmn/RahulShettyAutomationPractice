@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [CRIP Suite]">
+  <test thread-count="5" name="com.UITAP Tests(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="http://uitestingplayground.com/"/>
+    <classes>
+      <class name="uitaptest.VerifyLinkTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loadDelayLinkTest"/>
+        </methods>
+      </class> <!-- uitaptest.VerifyLinkTest -->
+    </classes>
+  </test> <!-- com.UITAP Tests(failed) -->
+</suite> <!-- Failed suite [CRIP Suite] -->

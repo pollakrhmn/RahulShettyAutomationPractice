@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="39" passed="39">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CRIP Suite" duration-ms="79268" started-at="2022-06-05T17:53:08Z" finished-at="2022-06-05T17:54:27Z">
+    <groups>
+    </groups>
+    <test name="com.UITAP Tests" duration-ms="40845" started-at="2022-06-05T17:53:08Z" finished-at="2022-06-05T17:53:49Z">
+      <class name="uitaptest.VerifyLinkTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="2942" started-at="2022-06-05T17:53:08Z" finished-at="2022-06-05T17:53:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickAjaxDataLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickAjaxDataLink" duration-ms="175" started-at="2022-06-05T17:53:11Z" finished-at="2022-06-05T17:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAjaxDataLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="85" started-at="2022-06-05T17:53:11Z" finished-at="2022-06-05T17:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1497" started-at="2022-06-05T17:53:11Z" finished-at="2022-06-05T17:53:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickClassAttributeLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickClassAttributeLink" duration-ms="152" started-at="2022-06-05T17:53:13Z" finished-at="2022-06-05T17:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickClassAttributeLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="72" started-at="2022-06-05T17:53:13Z" finished-at="2022-06-05T17:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1520" started-at="2022-06-05T17:53:13Z" finished-at="2022-06-05T17:53:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickClientSideDelayLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickClientSideDelayLink" duration-ms="150" started-at="2022-06-05T17:53:14Z" finished-at="2022-06-05T17:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickClientSideDelayLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="77" started-at="2022-06-05T17:53:15Z" finished-at="2022-06-05T17:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1501" started-at="2022-06-05T17:53:15Z" finished-at="2022-06-05T17:53:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickDynamicTableLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickDynamicTableLink" duration-ms="169" started-at="2022-06-05T17:53:16Z" finished-at="2022-06-05T17:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickDynamicTableLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="67" started-at="2022-06-05T17:53:16Z" finished-at="2022-06-05T17:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1510" started-at="2022-06-05T17:53:16Z" finished-at="2022-06-05T17:53:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickHiddenLayerLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickHiddenLayerLink" duration-ms="141" started-at="2022-06-05T17:53:18Z" finished-at="2022-06-05T17:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHiddenLayerLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="72" started-at="2022-06-05T17:53:18Z" finished-at="2022-06-05T17:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1476" started-at="2022-06-05T17:53:18Z" finished-at="2022-06-05T17:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickHomeTab()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickHomeTab" duration-ms="146" started-at="2022-06-05T17:53:20Z" finished-at="2022-06-05T17:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHomeTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="60" started-at="2022-06-05T17:53:20Z" finished-at="2022-06-05T17:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1454" started-at="2022-06-05T17:53:20Z" finished-at="2022-06-05T17:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickLink" duration-ms="134" started-at="2022-06-05T17:53:21Z" finished-at="2022-06-05T17:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="61" started-at="2022-06-05T17:53:21Z" finished-at="2022-06-05T17:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1494" started-at="2022-06-05T17:53:21Z" finished-at="2022-06-05T17:53:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickLoadDelayLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickLoadDelayLink" duration-ms="5168" started-at="2022-06-05T17:53:23Z" finished-at="2022-06-05T17:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoadDelayLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="77" started-at="2022-06-05T17:53:28Z" finished-at="2022-06-05T17:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1737" started-at="2022-06-05T17:53:28Z" finished-at="2022-06-05T17:53:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickLogo()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickLogo" duration-ms="144" started-at="2022-06-05T17:53:30Z" finished-at="2022-06-05T17:53:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="71" started-at="2022-06-05T17:53:30Z" finished-at="2022-06-05T17:53:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1475" started-at="2022-06-05T17:53:30Z" finished-at="2022-06-05T17:53:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickMouseOverLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickMouseOverLink" duration-ms="136" started-at="2022-06-05T17:53:32Z" finished-at="2022-06-05T17:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMouseOverLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="62" started-at="2022-06-05T17:53:32Z" finished-at="2022-06-05T17:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1469" started-at="2022-06-05T17:53:32Z" finished-at="2022-06-05T17:53:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickNonBreakingSpaceLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickNonBreakingSpaceLink" duration-ms="152" started-at="2022-06-05T17:53:33Z" finished-at="2022-06-05T17:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickNonBreakingSpaceLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="63" started-at="2022-06-05T17:53:33Z" finished-at="2022-06-05T17:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1492" started-at="2022-06-05T17:53:34Z" finished-at="2022-06-05T17:53:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOverlappedLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickOverlappedLink" duration-ms="145" started-at="2022-06-05T17:53:35Z" finished-at="2022-06-05T17:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOverlappedLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="67" started-at="2022-06-05T17:53:35Z" finished-at="2022-06-05T17:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1501" started-at="2022-06-05T17:53:35Z" finished-at="2022-06-05T17:53:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickProgressBarLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickProgressBarLink" duration-ms="140" started-at="2022-06-05T17:53:37Z" finished-at="2022-06-05T17:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickProgressBarLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="68" started-at="2022-06-05T17:53:37Z" finished-at="2022-06-05T17:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1489" started-at="2022-06-05T17:53:37Z" finished-at="2022-06-05T17:53:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickResourcesTab()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickResourcesTab" duration-ms="144" started-at="2022-06-05T17:53:38Z" finished-at="2022-06-05T17:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickResourcesTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="75" started-at="2022-06-05T17:53:39Z" finished-at="2022-06-05T17:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1451" started-at="2022-06-05T17:53:39Z" finished-at="2022-06-05T17:53:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickSampleAppLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickSampleAppLink" duration-ms="151" started-at="2022-06-05T17:53:40Z" finished-at="2022-06-05T17:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSampleAppLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="69" started-at="2022-06-05T17:53:40Z" finished-at="2022-06-05T17:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1491" started-at="2022-06-05T17:53:40Z" finished-at="2022-06-05T17:53:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickScrollBarsLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickScrollBarsLink" duration-ms="144" started-at="2022-06-05T17:53:42Z" finished-at="2022-06-05T17:53:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickScrollBarsLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="75" started-at="2022-06-05T17:53:42Z" finished-at="2022-06-05T17:53:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1515" started-at="2022-06-05T17:53:42Z" finished-at="2022-06-05T17:53:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickTextInputLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickTextInputLink" duration-ms="156" started-at="2022-06-05T17:53:44Z" finished-at="2022-06-05T17:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTextInputLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="74" started-at="2022-06-05T17:53:44Z" finished-at="2022-06-05T17:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1469" started-at="2022-06-05T17:53:44Z" finished-at="2022-06-05T17:53:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickVerifyTextLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickVerifyTextLink" duration-ms="151" started-at="2022-06-05T17:53:45Z" finished-at="2022-06-05T17:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickVerifyTextLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="62" started-at="2022-06-05T17:53:45Z" finished-at="2022-06-05T17:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1484" started-at="2022-06-05T17:53:45Z" finished-at="2022-06-05T17:53:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickVisibilityLink()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="clickVisibilityLink" duration-ms="152" started-at="2022-06-05T17:53:47Z" finished-at="2022-06-05T17:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickVisibilityLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="64" started-at="2022-06-05T17:53:47Z" finished-at="2022-06-05T17:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="setUp" is-config="true" duration-ms="1469" started-at="2022-06-05T17:53:47Z" finished-at="2022-06-05T17:53:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://uitestingplayground.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dynamicIdLinkTest()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="dynamicIdLinkTest" duration-ms="134" started-at="2022-06-05T17:53:49Z" finished-at="2022-06-05T17:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicIdLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uitaptest.VerifyLinkTest@13969fbe]" name="tearDown" is-config="true" duration-ms="59" started-at="2022-06-05T17:53:49Z" finished-at="2022-06-05T17:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uitaptest.VerifyLinkTest -->
+    </test> <!-- com.UITAP Tests -->
+    <test name="com.SauceDemo Tests" duration-ms="38394" started-at="2022-06-05T17:53:49Z" finished-at="2022-06-05T17:54:27Z">
+      <class name="saucedemotest.DragDownTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="setUp" is-config="true" duration-ms="1478" started-at="2022-06-05T17:54:12Z" finished-at="2022-06-05T17:54:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dragDownAtoZTest()[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="dragDownAtoZTest" duration-ms="447" started-at="2022-06-05T17:54:14Z" finished-at="2022-06-05T17:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDownAtoZTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="tearDown" is-config="true" duration-ms="84" started-at="2022-06-05T17:54:14Z" finished-at="2022-06-05T17:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="setUp" is-config="true" duration-ms="1571" started-at="2022-06-05T17:54:14Z" finished-at="2022-06-05T17:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dragDownHightoLowTest()[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="dragDownHightoLowTest" duration-ms="400" started-at="2022-06-05T17:54:16Z" finished-at="2022-06-05T17:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDownHightoLowTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="tearDown" is-config="true" duration-ms="70" started-at="2022-06-05T17:54:16Z" finished-at="2022-06-05T17:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="setUp" is-config="true" duration-ms="1575" started-at="2022-06-05T17:54:16Z" finished-at="2022-06-05T17:54:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dragDownLowtoHighTest()[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="dragDownLowtoHighTest" duration-ms="445" started-at="2022-06-05T17:54:18Z" finished-at="2022-06-05T17:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDownLowtoHighTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="tearDown" is-config="true" duration-ms="79" started-at="2022-06-05T17:54:18Z" finished-at="2022-06-05T17:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="setUp" is-config="true" duration-ms="1552" started-at="2022-06-05T17:54:18Z" finished-at="2022-06-05T17:54:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dragDownZtoATest()[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="dragDownZtoATest" duration-ms="371" started-at="2022-06-05T17:54:20Z" finished-at="2022-06-05T17:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDownZtoATest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.DragDownTest@68837a77]" name="tearDown" is-config="true" duration-ms="79" started-at="2022-06-05T17:54:20Z" finished-at="2022-06-05T17:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- saucedemotest.DragDownTest -->
+      <class name="saucedemotest.LogInTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="setUp" is-config="true" duration-ms="1482" started-at="2022-06-05T17:53:49Z" finished-at="2022-06-05T17:53:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidLogInTest()[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="invalidLogInTest" duration-ms="243" started-at="2022-06-05T17:53:50Z" finished-at="2022-06-05T17:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="tearDown" is-config="true" duration-ms="68" started-at="2022-06-05T17:53:51Z" finished-at="2022-06-05T17:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="setUp" is-config="true" duration-ms="1404" started-at="2022-06-05T17:53:51Z" finished-at="2022-06-05T17:53:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logInTest()[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="logInTest" duration-ms="266" started-at="2022-06-05T17:53:52Z" finished-at="2022-06-05T17:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="tearDown" is-config="true" duration-ms="80" started-at="2022-06-05T17:53:52Z" finished-at="2022-06-05T17:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="setUp" is-config="true" duration-ms="1467" started-at="2022-06-05T17:53:52Z" finished-at="2022-06-05T17:53:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogInButton()[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="validateLogInButton" duration-ms="50" started-at="2022-06-05T17:53:54Z" finished-at="2022-06-05T17:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogInButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.LogInTest@614c5515]" name="tearDown" is-config="true" duration-ms="73" started-at="2022-06-05T17:53:54Z" finished-at="2022-06-05T17:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- saucedemotest.LogInTest -->
+      <class name="saucedemotest.AddItemsToCartTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="setUp" is-config="true" duration-ms="1451" started-at="2022-06-05T17:53:54Z" finished-at="2022-06-05T17:53:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addBackPackToCart()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="addBackPackToCart" duration-ms="351" started-at="2022-06-05T17:53:55Z" finished-at="2022-06-05T17:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBackPackToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="tearDown" is-config="true" duration-ms="80" started-at="2022-06-05T17:53:56Z" finished-at="2022-06-05T17:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="setUp" is-config="true" duration-ms="1459" started-at="2022-06-05T17:53:56Z" finished-at="2022-06-05T17:53:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addBikeLightToCart()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="addBikeLightToCart" duration-ms="367" started-at="2022-06-05T17:53:57Z" finished-at="2022-06-05T17:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBikeLightToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="tearDown" is-config="true" duration-ms="81" started-at="2022-06-05T17:53:58Z" finished-at="2022-06-05T17:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="setUp" is-config="true" duration-ms="1449" started-at="2022-06-05T17:53:58Z" finished-at="2022-06-05T17:53:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addBoltShirtToCart()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="addBoltShirtToCart" duration-ms="444" started-at="2022-06-05T17:53:59Z" finished-at="2022-06-05T17:54:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBoltShirtToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="tearDown" is-config="true" duration-ms="86" started-at="2022-06-05T17:54:00Z" finished-at="2022-06-05T17:54:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="setUp" is-config="true" duration-ms="1441" started-at="2022-06-05T17:54:00Z" finished-at="2022-06-05T17:54:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addFleeceJacketToCart()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="addFleeceJacketToCart" duration-ms="353" started-at="2022-06-05T17:54:01Z" finished-at="2022-06-05T17:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFleeceJacketToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="tearDown" is-config="true" duration-ms="75" started-at="2022-06-05T17:54:02Z" finished-at="2022-06-05T17:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="setUp" is-config="true" duration-ms="1428" started-at="2022-06-05T17:54:02Z" finished-at="2022-06-05T17:54:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addMultipleItemsToCartTest()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="addMultipleItemsToCartTest" duration-ms="576" started-at="2022-06-05T17:54:03Z" finished-at="2022-06-05T17:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMultipleItemsToCartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="tearDown" is-config="true" duration-ms="94" started-at="2022-06-05T17:54:04Z" finished-at="2022-06-05T17:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="setUp" is-config="true" duration-ms="1458" started-at="2022-06-05T17:54:04Z" finished-at="2022-06-05T17:54:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addOnesieToCart()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="addOnesieToCart" duration-ms="359" started-at="2022-06-05T17:54:05Z" finished-at="2022-06-05T17:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOnesieToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="tearDown" is-config="true" duration-ms="76" started-at="2022-06-05T17:54:06Z" finished-at="2022-06-05T17:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="setUp" is-config="true" duration-ms="1437" started-at="2022-06-05T17:54:06Z" finished-at="2022-06-05T17:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addRedShirtToCart()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="addRedShirtToCart" duration-ms="367" started-at="2022-06-05T17:54:07Z" finished-at="2022-06-05T17:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRedShirtToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.AddItemsToCartTest@77b52d12]" name="tearDown" is-config="true" duration-ms="69" started-at="2022-06-05T17:54:07Z" finished-at="2022-06-05T17:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- saucedemotest.AddItemsToCartTest -->
+      <class name="saucedemotest.MenuBarTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="setUp" is-config="true" duration-ms="1495" started-at="2022-06-05T17:54:20Z" finished-at="2022-06-05T17:54:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="menuBarAboutTest()[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="menuBarAboutTest" duration-ms="1189" started-at="2022-06-05T17:54:22Z" finished-at="2022-06-05T17:54:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuBarAboutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="tearDown" is-config="true" duration-ms="89" started-at="2022-06-05T17:54:23Z" finished-at="2022-06-05T17:54:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="setUp" is-config="true" duration-ms="1427" started-at="2022-06-05T17:54:23Z" finished-at="2022-06-05T17:54:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="menuBarAllItemsTest()[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="menuBarAllItemsTest" duration-ms="531" started-at="2022-06-05T17:54:25Z" finished-at="2022-06-05T17:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuBarAllItemsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="tearDown" is-config="true" duration-ms="73" started-at="2022-06-05T17:54:25Z" finished-at="2022-06-05T17:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="setUp" is-config="true" duration-ms="1383" started-at="2022-06-05T17:54:25Z" finished-at="2022-06-05T17:54:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="menuBarLogoutTest()[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="menuBarLogoutTest" duration-ms="497" started-at="2022-06-05T17:54:27Z" finished-at="2022-06-05T17:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuBarLogoutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.MenuBarTest@6be46e8f]" name="tearDown" is-config="true" duration-ms="64" started-at="2022-06-05T17:54:27Z" finished-at="2022-06-05T17:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- saucedemotest.MenuBarTest -->
+      <class name="saucedemotest.CheckOutTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.CheckOutTest@2d554825]" name="setUp" is-config="true" duration-ms="1423" started-at="2022-06-05T17:54:07Z" finished-at="2022-06-05T17:54:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="mulipleItemsCheckOutTest()[pri:0, instance:saucedemotest.CheckOutTest@2d554825]" name="mulipleItemsCheckOutTest" duration-ms="955" started-at="2022-06-05T17:54:09Z" finished-at="2022-06-05T17:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulipleItemsCheckOutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.CheckOutTest@2d554825]" name="tearDown" is-config="true" duration-ms="112" started-at="2022-06-05T17:54:10Z" finished-at="2022-06-05T17:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:saucedemotest.CheckOutTest@2d554825]" name="setUp" is-config="true" duration-ms="1493" started-at="2022-06-05T17:54:10Z" finished-at="2022-06-05T17:54:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="singleItemCheckOutTest()[pri:0, instance:saucedemotest.CheckOutTest@2d554825]" name="singleItemCheckOutTest" duration-ms="787" started-at="2022-06-05T17:54:11Z" finished-at="2022-06-05T17:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleItemCheckOutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemotest.CheckOutTest@2d554825]" name="tearDown" is-config="true" duration-ms="71" started-at="2022-06-05T17:54:12Z" finished-at="2022-06-05T17:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- saucedemotest.CheckOutTest -->
+    </test> <!-- com.SauceDemo Tests -->
+  </suite> <!-- CRIP Suite -->
+</testng-results>

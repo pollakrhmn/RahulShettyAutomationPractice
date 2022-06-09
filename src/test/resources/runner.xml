@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Practice">
+
+    <test name="com.RahulShettyAcademy Tests">
+
+        <parameter name="useCloudEnv" value="false"></parameter>
+        <parameter name="envName" value="browserstack"></parameter>
+        <parameter name="os" value="windows"></parameter>
+        <parameter name="osVersion" value="11"></parameter>
+        <parameter name="browserName" value="chrome"/>
+        <parameter name="browserVersion" value="102"/>
+        <parameter name="url" value="https://www.rahulshettyacademy.com/AutomationPractice/"/>
+
+        <classes>
+            <class name="rahulshettyacademytests.AlertPopUp"></class>
+            <class name="rahulshettyacademytests.CheckBox"></class>
+            <class name="rahulshettyacademytests.DropDown"></class>
+            <class name="rahulshettyacademytests.ElementDisplayed"></class>
+            <class name="rahulshettyacademytests.Frame"></class>
+            <class name="rahulshettyacademytests.MouseHover"></class>
+            <class name="rahulshettyacademytests.RadioButton"></class>
+            <class name="rahulshettyacademytests.SuggestionClass"></class>
+            <class name="rahulshettyacademytests.WebTableScrollBar"></class>
+            <class name="rahulshettyacademytests.WindowHandle"></class>
+            <class name="rahulshettyacademytests.NewTabHandle"></class>
+        </classes>
+
+    </test>
+
+ </suite>
